@@ -1,0 +1,2 @@
+# IoT_SmartHome_EcoGarden
+HCMUT IOT ASSIGNMENT HK262
